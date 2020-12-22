@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=pdn target/MyProyectopersonal-1.0.jar
